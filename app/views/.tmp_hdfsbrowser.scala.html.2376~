@@ -1,0 +1,27 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+<html>
+<head>
+    
+    <title id="page-title">Rest & HDFS Server Connect</title>
+	<!-- <script type="text/javascript" src="@routes.Assets.at("/extjs-4.1.0/locale/ext-lang-ko.js")" charset="utf-8"></script> -->
+    <link rel="stylesheet" type="text/css" href="@routes.Assets.at("/extjs-4.1.0/resources/css/ext-all.css")">
+
+
+
+    <script type="text/javascript" src="@routes.Assets.at("/extjs-4.1.0/ext-all.js")"></script>
+	
+	
+ 	<script type="text/javascript" src="@routes.Assets.at("/app/model/index/gridmodel.js")"></script>
+	<script type="text/javascript" src="@routes.Assets.at("/app/store/index/gridstore.js")"></script>  
+	<script type="text/javascript" src="@routes.Assets.at("/app/store/index/treestore.js")"></script>  
+	<script type="text/javascript" src="@routes.Assets.at("/app/view/index/contextmenu.js")"></script>  
+	<script type="text/javascript" src="@routes.Assets.at("/app/view/index/gridpanel.js")"></script>  
+	<script type="text/javascript" src="@routes.Assets.at("/app/view/index/index.js")"></script>  
+	<script type="text/javascript" src="@routes.Assets.at("/app/view/index/toolbar.js")"></script>  
+	<script type="text/javascript" src="@routes.Assets.at("/app/view/index/treepanel.js")"></script>  
+	<script type="text/javascript" src="@routes.Assets.at("/app/view/index/contextmenu.js")"></script>  
+	  
+</head>
+<body>
+</body>
+</html>

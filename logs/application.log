@@ -1,0 +1,180 @@
+2012-06-20 05:18:43,744 - [INFO] - from play in main 
+Listening for HTTP on port 7070...
+
+2012-06-20 05:18:49,390 - [DEBUG] - from application in play-akka.actor.default-dispatcher-1 
+Start memcached($PATH, $TIMESTAMP) for retaining FS data every 
+
+2012-06-20 05:18:49,466 - [INFO] - from play in play-akka.actor.default-dispatcher-1 
+Starting application default Akka system.
+
+2012-06-20 05:18:49,470 - [INFO] - from play in play-akka.actor.default-dispatcher-1 
+Application started (Dev)
+
+2012-06-20 05:18:49,693 - [DEBUG] - from application in play-akka.actor.actions-dispatcher-7 
+Request from localhost:7070:/index>>hdfsbrowser
+
+2012-06-20 05:18:52,694 - [DEBUG] - from application in play-akka.actor.actions-dispatcher-4 
+Request from localhost:7070:/index>>hdfsbrowser
+
+2012-06-20 05:18:54,869 - [DEBUG] - from application in play-akka.actor.actions-dispatcher-4 
+Request from localhost:7070:/index>>hdfsbrowser
+
+2012-06-20 05:18:59,545 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+START RUN JOB
+
+2012-06-20 05:20:38,402 - [DEBUG] - from application in play-akka.actor.actions-dispatcher-3 
+Request from localhost:7070:/index>>hdfsbrowser
+
+2012-06-20 05:22:51,074 - [DEBUG] - from application in play-akka.actor.actions-dispatcher-3 
+Request from localhost:7070:/index>>hdfsbrowser
+
+2012-06-20 05:23:12,869 - [DEBUG] - from application in play-akka.actor.actions-dispatcher-3 
+Request from localhost:7070:/index>>hdfsbrowser
+
+2012-06-20 11:26:46,164 - [INFO] - from play in play-akka.actor.default-dispatcher-6 
+Shutdown application default Akka system.
+
+2012-06-20 11:26:46,164 - [DEBUG] - from application in play-akka.actor.default-dispatcher-6 
+Why cannot do anything in this time!
+
+2012-06-20 11:26:46,181 - [DEBUG] - from application in play-akka.actor.default-dispatcher-6 
+Start memcached($PATH, $TIMESTAMP) for retaining FS data every 
+
+2012-06-20 11:26:46,215 - [INFO] - from play in play-akka.actor.default-dispatcher-6 
+Starting application default Akka system.
+
+2012-06-20 11:26:46,216 - [INFO] - from play in play-akka.actor.default-dispatcher-6 
+Application started (Dev)
+
+2012-06-20 11:26:46,236 - [DEBUG] - from application in play-akka.actor.actions-dispatcher-3 
+Request from localhost:7070:/index>>index
+
+2012-06-20 11:26:56,315 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+START RUN JOB
+
+2012-06-20 11:28:00,184 - [DEBUG] - from application in play-akka.actor.actions-dispatcher-3 
+Request from localhost:7070:/index>>index
+
+2012-06-20 11:31:22,080 - [DEBUG] - from application in play-akka.actor.actions-dispatcher-3 
+Request from localhost:7070:/index>>index
+
+2012-06-20 11:33:56,437 - [DEBUG] - from application in play-akka.actor.actions-dispatcher-3 
+Request from localhost:7070:/index>>index
+
+2012-06-20 11:34:56,354 - [DEBUG] - from application in play-akka.actor.actions-dispatcher-3 
+Request from localhost:7070:/index>>index
+
+2012-06-20 11:35:14,741 - [DEBUG] - from application in play-akka.actor.actions-dispatcher-3 
+Request from localhost:7070:/index>>index
+
+2012-06-20 11:36:05,728 - [DEBUG] - from application in play-akka.actor.actions-dispatcher-3 
+Request from localhost:7070:/index>>index
+
+2012-06-20 11:37:34,914 - [DEBUG] - from application in play-akka.actor.actions-dispatcher-3 
+Request from localhost:7070:/index>>index
+
+2012-06-20 11:39:34,729 - [DEBUG] - from application in play-akka.actor.actions-dispatcher-3 
+Request from localhost:7070:/index>>index
+
+2012-06-20 11:40:35,737 - [DEBUG] - from application in play-akka.actor.actions-dispatcher-3 
+Request from localhost:7070:/index>>index
+
+2012-06-20 11:40:59,164 - [DEBUG] - from application in play-akka.actor.actions-dispatcher-3 
+Request from localhost:7070:/index>>index
+
+2012-06-20 11:41:22,436 - [DEBUG] - from application in play-akka.actor.actions-dispatcher-3 
+Request from localhost:7070:/index>>index
+
+2012-06-20 11:42:02,636 - [INFO] - from play in play-akka.actor.default-dispatcher-18 
+Shutdown application default Akka system.
+
+2012-06-20 11:42:02,672 - [DEBUG] - from application in play-akka.actor.default-dispatcher-18 
+Why cannot do anything in this time!
+
+2012-06-20 11:42:02,688 - [DEBUG] - from application in play-akka.actor.default-dispatcher-18 
+Start memcached($PATH, $TIMESTAMP) for retaining FS data every 
+
+2012-06-20 11:42:02,711 - [INFO] - from play in play-akka.actor.default-dispatcher-18 
+Starting application default Akka system.
+
+2012-06-20 11:42:02,712 - [INFO] - from play in play-akka.actor.default-dispatcher-18 
+Application started (Dev)
+
+2012-06-20 11:42:02,718 - [DEBUG] - from application in play-akka.actor.actions-dispatcher-3 
+Request from localhost:7070:/index>>index
+
+2012-06-20 11:42:12,811 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+START RUN JOB
+
+2012-06-20 11:43:24,044 - [INFO] - from play in play-akka.actor.default-dispatcher-19 
+Shutdown application default Akka system.
+
+2012-06-20 11:43:24,062 - [DEBUG] - from application in play-akka.actor.default-dispatcher-19 
+Why cannot do anything in this time!
+
+2012-06-20 11:43:24,130 - [DEBUG] - from application in play-akka.actor.default-dispatcher-19 
+Start memcached($PATH, $TIMESTAMP) for retaining FS data every 
+
+2012-06-20 11:43:24,153 - [INFO] - from play in play-akka.actor.default-dispatcher-19 
+Starting application default Akka system.
+
+2012-06-20 11:43:24,154 - [INFO] - from play in play-akka.actor.default-dispatcher-19 
+Application started (Dev)
+
+2012-06-20 11:43:24,161 - [DEBUG] - from application in play-akka.actor.actions-dispatcher-3 
+Request from localhost:7070:/index>>index
+
+2012-06-20 11:43:34,253 - [DEBUG] - from application in application-akka.actor.default-dispatcher-3 
+START RUN JOB
+
+2012-06-20 11:50:38,458 - [DEBUG] - from application in play-akka.actor.actions-dispatcher-3 
+Request from localhost:7070:/index>>index
+
+2012-06-20 11:51:17,458 - [DEBUG] - from application in play-akka.actor.actions-dispatcher-3 
+Request from localhost:7070:/index>>index
+
+2012-06-20 11:54:46,849 - [DEBUG] - from application in play-akka.actor.actions-dispatcher-3 
+Request from localhost:7070:/index>>index
+
+2012-06-20 11:54:55,020 - [DEBUG] - from application in play-akka.actor.actions-dispatcher-3 
+Request from localhost:7070:/index>>index
+
+2012-06-20 11:55:13,817 - [DEBUG] - from application in play-akka.actor.actions-dispatcher-3 
+Request from localhost:7070:/index>>index
+
+2012-06-20 11:55:36,812 - [DEBUG] - from application in play-akka.actor.actions-dispatcher-3 
+Request from localhost:7070:/index>>index
+
+2012-06-20 11:56:03,676 - [DEBUG] - from application in play-akka.actor.actions-dispatcher-3 
+Request from localhost:7070:/index>>index
+
+2012-06-20 11:56:12,446 - [DEBUG] - from application in play-akka.actor.actions-dispatcher-3 
+Request from localhost:7070:/index>>index
+
+2012-06-20 11:56:17,217 - [DEBUG] - from application in play-akka.actor.actions-dispatcher-3 
+Request from localhost:7070:/index>>index
+
+2012-06-20 12:17:18,198 - [INFO] - from play in play-akka.actor.default-dispatcher-28 
+Shutdown application default Akka system.
+
+2012-06-20 12:17:18,207 - [DEBUG] - from application in play-akka.actor.default-dispatcher-28 
+Why cannot do anything in this time!
+
+2012-06-20 12:17:18,220 - [DEBUG] - from application in play-akka.actor.default-dispatcher-28 
+Start memcached($PATH, $TIMESTAMP) for retaining FS data every 
+
+2012-06-20 12:17:18,244 - [INFO] - from play in play-akka.actor.default-dispatcher-28 
+Starting application default Akka system.
+
+2012-06-20 12:17:18,245 - [INFO] - from play in play-akka.actor.default-dispatcher-28 
+Application started (Dev)
+
+2012-06-20 12:17:18,252 - [DEBUG] - from application in play-akka.actor.actions-dispatcher-3 
+Request from localhost:7070:/index>>index
+
+2012-06-20 12:17:18,355 - [DEBUG] - from application in play-akka.actor.actions-dispatcher-3 
+Request from localhost:7070:/index>>index
+
+2012-06-20 12:17:28,345 - [DEBUG] - from application in application-akka.actor.default-dispatcher-1 
+START RUN JOB
+

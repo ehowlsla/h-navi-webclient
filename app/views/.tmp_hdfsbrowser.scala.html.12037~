@@ -1,0 +1,31 @@
+
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title id="page-title">HDFS Browser</title>
+
+    <link rel="stylesheet" type="text/css" href="@routes.Assets.at("/extjs-4.1.0/resources/css/ext-all.css")">
+
+
+
+    <script type="text/javascript" src="@routes.Assets.at("/extjs-4.1.0/ext-all.js")"></script>
+	
+	<link rel="stylesheet" type="text/css" href="@routes.Assets.at("/extjs-4.1.0/hnavi/hdfsbrowser.css")"></script>
+	<script type="text/javascript" src="@routes.Assets.at("/extjs-4.1.0/hnavi/winprogressbar.js")"></script> 
+	<script type="text/javascript" src="@routes.Assets.at("/extjs-4.1.0/hnavi/toolbar.js")"></script> 
+	<script type="text/javascript" src="@routes.Assets.at("/extjs-4.1.0/hnavi/home.html")"></script> 
+	<script type="text/javascript" src="@routes.Assets.at("/extjs-4.1.0/hnavi/gridpanel.js")"></script> 
+	<script type="text/javascript" src="@routes.Assets.at("/extjs-4.1.0/hnavi/treepanel.js")"></script> 
+	<script type="text/javascript" src="@routes.Assets.at("/extjs-4.1.0/hnavi/winfileupload.js")"></script> 
+	<script type="text/javascript" src="@routes.Assets.at("/extjs-4.1.0/hnavi/winnewfolder.js")"></script> 
+	<script type="text/javascript" src="@routes.Assets.at("/extjs-4.1.0/hnavi/winrenamefolder.js")"></script>  
+	<script type="text/javascript" src="@routes.Assets.at("/extjs-4.1.0/hnavi/cxmenutree.js")"></script> 
+	<script type="text/javascript" src="@routes.Assets.at("/extjs-4.1.0/hnavi/hdfsbrowser.js")"></script> 
+	
+<!--    <script type="text/javascript" src="@routes.Assets.at("/javascripts/extjs-4.1.0/examples/app/simple/all-classes.js")"></script> -->
+<!--     <script type="text/javascript" src="@routes.Assets.at("/javascripts/extjs-4.1.0/examples/app/simple/app.js")"></script> -->
+
+</head>
+<body>
+</body>
+</html>
